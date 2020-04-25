@@ -1,0 +1,10 @@
+module.exports={
+    devServer:{
+        port:2266,
+        host:"localhost",
+        https:false,
+        open:true,
+    },
+    lintOnSave:false,
+    productionSourceMap:false,
+}
